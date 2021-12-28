@@ -1,0 +1,4 @@
+void main(){
+var record={"first name":"dalia", "last name":"aboelmagd", "faculty":" Islamic and Arabic studies", "phone number":"01551359885", "favourite colour":"yellow", "favourite food":"nagrisco"}; 
+print(record);
+}
